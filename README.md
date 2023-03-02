@@ -1,6 +1,6 @@
 # crud
 
-A Flutter project For Crud Operation with SQLlite.
+A Flutter project For Crud Operation with sqflite.
 
 ## Getting Started
 
